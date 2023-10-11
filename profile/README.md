@@ -30,7 +30,7 @@
     </th>
   </tr>
   <tr>
-    <td><img src="https://media.licdn.com/dms/image/D5635AQFzElVe2guF8w/profile-framedphoto-shrink_800_800/0/1696019670064?e=1696975200&v=beta&t=R4KosiNbDlKBDcAJ4148gA_56OKfk_3aEMH6prdQSwQ" alt="Yassine Assim" height="150px" width="150px" /></td>
+    <td><img src="https://media.licdn.com/dms/image/D5635AQFzElVe2guF8w/profile-framedphoto-shrink_800_800/0/1696019670064?e=1697634000&v=beta&t=UzaTWdkk_3Dj2SScv4PvGv_menyFZFS5fkSnEKKo4q8" alt="Yassine Assim" height="150px" width="150px" /></td>
     <th>
       <h3>Yassine Assim</h3>
       <p>Second Year Student</p>
