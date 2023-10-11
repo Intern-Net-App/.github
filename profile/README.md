@@ -74,7 +74,7 @@ Below is a table that provides an overview of the technologies we are currently 
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React.js"/></td>
-    <td><img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" alt="ElasticSearch"/></td>
+    <td><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/></td>
     <td><img src="https://img.shields.io/badge/GlassDoor-%2300a264.svg?style=for-the-badge&logo=glassdoor&logoColor=white" alt="Glassdoor" /></td>
     <td><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Website"/></td>
     <td><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/></td>
