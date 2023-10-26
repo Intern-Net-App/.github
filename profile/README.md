@@ -9,6 +9,10 @@
 
 - 🗨️ [Introduction](#introduction)
 - 🔧 [Technologies](#technologies)
+- 📂 [Repositories](#repositories)
+  - 🎨 [Frontend](#frontend-react)
+  - ⚙ [Backend](#backend)
+  - 🕷 [Web Scraper](#web-scraper)
 
 <h1 id="introduction">🗨️ Introduction</h1>
 
@@ -81,3 +85,16 @@ Below is a table that provides an overview of the technologies we are currently 
   </tr>
  </table>
 </div>
+
+<h1 id="repositories">📂 Repositories</h1>
+<h2 id="frontend-react">
+    Frontend
+</h2>
+
+<h2 id="backend">
+    Backend
+</h2>
+
+<h2 id="web-scraper">
+  Web Scraper
+</h2>
